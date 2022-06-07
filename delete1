@@ -1,0 +1,10 @@
+delete this
+print("hello world")
+var = "True"
+x = 1
+while var == "True":
+    print(x)
+    if x % 5 == 0:
+        var = "False"
+    else:
+        x = x + 1
